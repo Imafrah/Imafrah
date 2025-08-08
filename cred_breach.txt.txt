@@ -1,3 +1,0 @@
-user1,password123,busness_info1
-user2,Password123!,busness_info2
-user3,weakpassword,busness_info3
