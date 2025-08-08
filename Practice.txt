@@ -1,4 +1,0 @@
-printf("Hello");
-hello hi how are you?
-eyes eyes meet meet my future dark
-why this kolavari dii ?
