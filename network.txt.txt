@@ -1,3 +1,0 @@
-device1,vulnerability1
-device2,vulnerability2
-device3,vulnerability3
