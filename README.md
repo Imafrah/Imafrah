@@ -12,8 +12,8 @@
 <a href="https://linkedin.com/in/your-linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?logo=firefox&logoColor=white" />
+<a href="(https://leetcode.com/u/Imafrah/)" target="_blank">
+<img src="(https://avatars.githubusercontent.com/u/41718343?s=280&v=4)" />
 </a>
 </p>
 
