@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">👋 Hey, I'm Mohammed Afrah Usman</h1>
 <h3 align="center">Turning ideas into reality with code 💡</h3>
 
@@ -8,10 +6,7 @@
 - 🚀 Currently working on **[Your Project Name]**  
 - 📚 Learning **Flutter, Python, AI Agents, and Cloud Data Analytics**  
 - 🤝 Open to collaborating on **AI-powered apps & real-time data projects**  
-- 📂 All my work is here → [GitHub Repositories](https://github.com/your-username)  
-- 💬 Ask me about **Flutter, Python, Java, Google Cloud, and AI tools**  
-- ⚡ Fun fact: *I love mixing creativity with tech*  
-
+- 📂 All my work is here → [GitHub Repositories](https://github.com/imafrah)  
 ---
 
 ### 🌐 Connect With Me
@@ -43,5 +38,5 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub stats](https://github-imafrah-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
