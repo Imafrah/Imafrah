@@ -31,15 +31,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Jira_logo.svg" width="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" width="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRklXyWQy1ditXPl8oBPdbcdjxuiVU3Z3VA&s" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> 
 </p>
