@@ -2,11 +2,9 @@
 <h3 align="center">Turning ideas into reality with code 💡</h3>
 
 ---
-
-- 🚀 Currently working on **[Your Project Name]**  
 - 📚 Learning **Flutter, Python, AI Agents, and Cloud Data Analytics**  
 - 🤝 Open to collaborating on **AI-powered apps & real-time data projects**  
-- 📂 All my work is here → [GitHub Repositories](https://github.com/imafrah)  
+- 📂 All my work is here → [GitHub Repositories](https://github.com/Imafrah)
 ---
 
 ### 🌐 Connect With Me
