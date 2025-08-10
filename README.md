@@ -2,7 +2,7 @@
 <h3 align="center">Turning ideas into reality with code 💡</h3>
 
 ---
-- 📚 Learning **Flutter, Python, AI Agents, and Cloud Data Analytics**  
+- 📚 Learning **AI Agents and Cloud Data Analytics**  
 - 🤝 Open to collaborating on **AI-powered apps & real-time data projects**  
 - 📂 All my work is here → [GitHub Repositories](https://github.com/Imafrah)
 ---
@@ -36,5 +36,5 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-imafrah-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub stats](https://github-imafrah-stats.vercel.app/api?imafrah=your-imafrah&show_icons=true&theme=radical)  
 
