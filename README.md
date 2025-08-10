@@ -12,12 +12,13 @@
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-afrah-usman-6bb087294" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 <a href="https://leetcode.com/u/Imafrah/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 </p>
+
 
 ---
 
