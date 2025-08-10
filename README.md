@@ -11,10 +11,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" />
+<a href="https://linkedin.com/in/mohammed-afrah-usman-6bb087294" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="linkedin.com/in/mohammed-afrah-usman-6bb087294" target="_blank">
+<a href="https://leetcode.com/u/Imafrah/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 </p>
