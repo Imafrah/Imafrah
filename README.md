@@ -25,7 +25,6 @@ AI-powered applications, real-time data projects, full-stack innovations, and co
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 </p>
----
 
 ### 🛠 Languages & Tools
 <p align="left">
