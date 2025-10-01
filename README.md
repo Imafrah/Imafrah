@@ -7,7 +7,7 @@ I’m an Computer Science Engineering student from MITE passionate about turning
 
 ## 🚀 About Me
 - 🎓 Engineering Student: Data acquisition systems, embedded electronics, software architecture  
-- 💻 Full-Stack Developer: JavaScript, TypeScript, React, Node.js, Python; Tailwind CSS; Firebase & serverless backends  
+- 💻 Full-Stack Developer: JavaScript, TypeScript, React, Node.js, Python; Tailwind CSS,Firebase & serverless backends  
 - 🤖 AI & Cloud Enthusiast: AI agents, real-time data analytics, Google Gemini & OpenAI integration  
 - 🏆 Hackathon Competitor: Smart India Hackathon projects,real-time AI applications  
 - 🛠 Toolchain & Platforms: Git/GitHub, Vercel, Firebase, Google Cloud, Figma, Cursor, Agile workflows  
