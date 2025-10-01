@@ -3,9 +3,18 @@
 
 ---
 
-- 📚 Learning **AI Agents and Cloud Data Analytics**  
-- 🤝 Open to collaborating on **AI-powered apps & real-time data projects**  
-- 📂 All my work is here → [GitHub Repositories](https://github.com/Imafrah)  
+I’m an Computer Science Engineering student from MITE passionate about turning ideas into reality with code. I work at the intersection of **web development** and **AI**, building practical and innovative solutions.
+
+## 🚀 About Me
+- 🎓 Engineering Student: Data acquisition systems, embedded electronics, software architecture  
+- 💻 Full-Stack Developer: JavaScript, TypeScript, React, Node.js, Python; Tailwind CSS; Firebase & serverless backends  
+- 🤖 AI & Cloud Enthusiast: AI agents, real-time data analytics, Google Gemini & OpenAI integration  
+- 🏆 Hackathon Competitor: Smart India Hackathon projects,real-time AI applications  
+- 🛠 Toolchain & Platforms: Git/GitHub, Vercel, Firebase, Google Cloud, Figma, Cursor, Agile workflows  
+- 📈 Open Source Contributions: 150+ commits across projects like **Imchef** (E-commerce), **ImChatBot** (AI chatbot), **LAZAREV** & **Family-Golf** frontends  
+
+## 💡 Interests
+AI-powered applications, real-time data projects, full-stack innovations, and collaborative tech solutions.
 
 ---
 
@@ -18,6 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 </p>
+**Let's connect and build something impactful!**
 
 
 ---
