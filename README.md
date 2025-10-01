@@ -16,19 +16,6 @@ I’m an Computer Science Engineering student from MITE passionate about turning
 ## 💡 Interests
 AI-powered applications, real-time data projects, full-stack innovations, and collaborative tech solutions.
 
-## 🔧 Skills
-
-**Languages & Frameworks:**  
-JavaScript | TypeScript | React | Node.js | Python | Tailwind CSS | Express  
-
-**Cloud & Tools:**  
-Firebase | Vercel | Google Cloud | Git/GitHub | Figma | Cursor  
-
-**Other Interests:**  
-AI Agents | Real-time Analytics | Full-Stack Projects | Electronics & IoT  
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-afrah-usman-6bb087294" target="_blank">
