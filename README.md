@@ -16,8 +16,6 @@ I’m an Computer Science Engineering student from MITE passionate about turning
 ## 💡 Interests
 AI-powered applications, real-time data projects, full-stack innovations, and collaborative tech solutions.
 
----
-
 ## 🔧 Skills
 
 **Languages & Frameworks:**  
